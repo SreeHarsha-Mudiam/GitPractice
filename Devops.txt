@@ -1,0 +1,19 @@
+FaOm Gam Ganapatye Namah
+
+Types of Builds:
+
+Day Build
+Night Build
+Weekly Build
+Internal Release
+Customer Release
+
+Working tree: Local copy of the code
+Staging Area: Once git add, it comes to Staging area
+Local repository: Once git commit, it gets committed and ready to get pushed to branch
+
+Fast forward merge
+Three Way Merge
+Rebase
+What happens if file content is different initially and later matches
+What is difference between GITLab and GitHub
