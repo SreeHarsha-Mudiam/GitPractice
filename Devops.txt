@@ -15,5 +15,3 @@ Local repository: Once git commit, it gets committed and ready to get pushed to 
 Fast forward merge
 Three Way Merge
 Rebase
-What happens if file content is different initially and later matches
-What is difference between GITLab and GitHub
