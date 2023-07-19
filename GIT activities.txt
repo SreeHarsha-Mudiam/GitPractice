@@ -1,0 +1,6 @@
+Types of GIT activities:
+
+Three Way Merge
+Fast Forward merge
+Rebase
+Cherry-picking
